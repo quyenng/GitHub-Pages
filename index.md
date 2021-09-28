@@ -4,7 +4,7 @@
 ![this is a picture of quyen's spirit animal] (https://cdn1.tedsby.com/tb/medium/storage/3/1/3/313067/other-tide-sea-turtle-realistic-artist-toy-inches-centimeters.jpg)
 
 
- ### Currently
+### Currently
 
 **Quyen is currently a 3rd year student at the University of California - San Diego, pursuing her Bachelors in Computer Science**
 
@@ -17,7 +17,7 @@ Quyen's favorite command is `rm life` - useful when you encounter any slightest 
 
 Learn more about Quyen via this [portfolio site.](https://19qnguyen6.wixsite.com/my-site)
 
-You can click [here](#currently) to return to the top.
+You can click [here](#Currently) to return to the top.
 
 You can learn more about this repository [in this readme.](README.md)
 
