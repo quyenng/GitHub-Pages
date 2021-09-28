@@ -16,8 +16,6 @@ Quyen's favorite command is `rm life` - useful when you encounter any slightest 
 
 Learn more about Quyen via this [portfolio site.](https://19qnguyen6.wixsite.com/my-site)
 
-You can click [here](#currently) to return to the top.
-
 You can learn more about this repository [in this readme.](README.md)
 
 Some of Quyen's favorite foods are:
@@ -36,5 +34,6 @@ Adulting things Quyen has to do:
 - [ ] clean the house
 - [ ] water the plants
 
+You can click [here](#currently) to return to the top.
 
 
